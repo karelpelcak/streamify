@@ -1,0 +1,6 @@
+GET https://api.spotify.com/v1/me
+Authorization: "Bearer BQCAAVskq8urAXhMsX5ULeqc7OQ1conYkcHF1uowpqJB-LZ1Ve84f1wLoSCaR1UyB4CedTbJjgWTL4-38GrgY5NrXxku_cf8ypnqCqQmF025ouRF6gg"
+
+###
+GET https://api.spotify.com/v1/me/player/currently-playing
+Authorization:'Bearer BQDDgxZJxRuVmhg7DxE3fsqaDiNBPQ3hOsBdzgERlmGanz-xRCVVTEPx_oQjmmiYup-na5YNyXzya3N-aEEJ6xwa0Y5HuB2l9VZ1ouxFPq36BgYLjCvhlC-F'
